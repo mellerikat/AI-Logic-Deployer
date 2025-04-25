@@ -3,7 +3,7 @@ entries:
   ald-common-resource:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-25T01:57:56.607536409Z"
+    created: "2025-04-25T02:10:03.666740171Z"
     description: A Helm chart for Kubernetes
     digest: 471746a9f1431cf554338ffa8b779ce53dff534279cef39742220f75dcc34265
     name: ald-common-resource
@@ -14,12 +14,12 @@ entries:
   ald-server:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-25T01:57:56.607854952Z"
+    created: "2025-04-25T02:10:03.667861355Z"
     description: A Helm chart for Kubernetes
-    digest: 5443c5239b9f6467247f9dae8f96f23ff90cb47e18027a40d4526f042e028337
+    digest: bb5a11e94a232588ea02367e505d4adfe6d9279daa561e8fcc4758c0c7ecda8c
     name: ald-server
     type: application
     urls:
     - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-25T01:57:56.607304845Z"
+generated: "2025-04-25T02:10:03.66599869Z"
