@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   ai-pack:
   - apiVersion: v2
+    appVersion: 0.1.2
+    created: "2025-05-22T08:15:05.892406697Z"
+    description: A Helm chart for Kubernetes
+    digest: b8d53c84e2cc8699f165f831fe62af61a082ed1303cb23fc4b4c43aa3fda60df
+    name: ai-pack
+    type: application
+    urls:
+    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-05-16T08:02:31.350603356Z"
+    created: "2025-05-22T08:15:05.891945068Z"
     description: A Helm chart for Kubernetes
     digest: 7f4c1c858a97cf1814e3341d2e5e7210e5a0bcbb1457b5a66d500156ae5b50ec
     name: ai-pack
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-05-16T08:02:31.350113083Z"
+    created: "2025-05-22T08:15:05.891457675Z"
     description: A Helm chart for Kubernetes
     digest: e827ca6192e1cda7acf510bcea1a398006738baf4a180c33f05e1c3e72826aef
     name: ai-pack
@@ -24,7 +34,7 @@ entries:
   ald-common-resource:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-05-16T08:02:31.351112639Z"
+    created: "2025-05-22T08:15:05.893819069Z"
     description: A Helm chart for Kubernetes
     digest: 471746a9f1431cf554338ffa8b779ce53dff534279cef39742220f75dcc34265
     name: ald-common-resource
@@ -34,8 +44,18 @@ entries:
     version: 0.1.0
   ald-server:
   - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2025-05-22T08:15:05.896417586Z"
+    description: A Helm chart for Kubernetes
+    digest: a378e94ac41409ee7e9d49d9fe44bcd73dda156545cb8e3cff456af2668bef00
+    name: ald-server
+    type: application
+    urls:
+    - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-05-16T08:02:31.351521121Z"
+    created: "2025-05-22T08:15:05.895230123Z"
     description: A Helm chart for Kubernetes
     digest: a438214a0939d14ca3ab98a70ea6a2d905da6868ab3939aa4f7129f61cc40696
     name: ald-server
@@ -43,4 +63,4 @@ entries:
     urls:
     - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-16T08:02:31.349582614Z"
+generated: "2025-05-22T08:15:05.890890972Z"
