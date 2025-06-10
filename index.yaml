@@ -3,84 +3,84 @@ entries:
   ai-pack:
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2025-06-10T08:28:05.997805904Z"
+    created: "2025-06-10T08:59:50.368556293Z"
     description: A Helm chart for Kubernetes
-    digest: 07330a85f83f4ff98739d43e294b65fde6b551114877a1290328b85a982777fc
+    digest: 14f776bb3dcb32635f0370dbfce4e1f174db2929d5fc26de1533ff0858dae555
     name: ai-pack
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.4.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ai-pack-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2025-06-10T08:28:05.996625075Z"
+    created: "2025-06-10T08:59:50.368120007Z"
     description: A Helm chart for Kubernetes
     digest: a2fccdaee2fbdc772bdb83d41c967dfd04ab0b5ad6b0dd7b7fc254aa6f2e6a31
     name: ai-pack
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.3.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ai-pack-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2025-06-10T08:28:05.995464033Z"
+    created: "2025-06-10T08:59:50.367676409Z"
     description: A Helm chart for Kubernetes
     digest: 38a0fa53563885f5d41b453b688da389571301c7bd650c02da7198ec545c27a4
     name: ai-pack
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.2.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ai-pack-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-06-10T08:28:05.994209639Z"
+    created: "2025-06-10T08:59:50.36725306Z"
     description: A Helm chart for Kubernetes
     digest: 7f4c1c858a97cf1814e3341d2e5e7210e5a0bcbb1457b5a66d500156ae5b50ec
     name: ai-pack
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.1.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ai-pack-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-10T08:28:05.992962777Z"
+    created: "2025-06-10T08:59:50.366790737Z"
     description: A Helm chart for Kubernetes
     digest: e827ca6192e1cda7acf510bcea1a398006738baf4a180c33f05e1c3e72826aef
     name: ai-pack
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.0.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ai-pack-0.1.0.tgz
     version: 0.1.0
   ald-common-resource:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-10T08:28:05.998025185Z"
+    created: "2025-06-10T08:59:50.368687437Z"
     description: A Helm chart for Kubernetes
     digest: 471746a9f1431cf554338ffa8b779ce53dff534279cef39742220f75dcc34265
     name: ald-common-resource
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ald-common-resource-0.1.0.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ald-common-resource-0.1.0.tgz
     version: 0.1.0
   ald-server:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-06-10T08:28:05.998668287Z"
+    created: "2025-06-10T08:59:50.369320041Z"
     description: A Helm chart for Kubernetes
     digest: 0d58aa3e9afc51a22dde708fe2f95b11b983b75f86a9681aba655176ddb765c5
     name: ald-server
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.1.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ald-server-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-06-10T08:28:05.998338985Z"
+    created: "2025-06-10T08:59:50.368999619Z"
     description: A Helm chart for Kubernetes
     digest: a438214a0939d14ca3ab98a70ea6a2d905da6868ab3939aa4f7129f61cc40696
     name: ald-server
     type: application
     urls:
-    - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.0.tgz
+    - https://mellerikat.github.ui/AI-Logic-Deployer/ald-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-10T08:28:05.991468684Z"
+generated: "2025-06-10T08:59:50.366232085Z"
