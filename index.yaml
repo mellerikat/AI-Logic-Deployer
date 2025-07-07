@@ -3,84 +3,84 @@ entries:
   ai-pack:
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2025-07-07T02:22:40.010492831Z"
+    created: "2025-07-07T07:55:21.919505687Z"
     description: A Helm chart for Kubernetes
     digest: 9f89242ae8085544dafb0f99317b21413acaea83fd574bd3586ebe521df4aa32
     name: ai-pack
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2025-07-07T02:22:40.009277152Z"
+    created: "2025-07-07T07:55:21.919098057Z"
     description: A Helm chart for Kubernetes
     digest: a2fccdaee2fbdc772bdb83d41c967dfd04ab0b5ad6b0dd7b7fc254aa6f2e6a31
     name: ai-pack
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2025-07-07T02:22:40.007966214Z"
+    created: "2025-07-07T07:55:21.918689379Z"
     description: A Helm chart for Kubernetes
     digest: 38a0fa53563885f5d41b453b688da389571301c7bd650c02da7198ec545c27a4
     name: ai-pack
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-07-07T02:22:40.006571489Z"
+    created: "2025-07-07T07:55:21.918302598Z"
     description: A Helm chart for Kubernetes
     digest: 7f4c1c858a97cf1814e3341d2e5e7210e5a0bcbb1457b5a66d500156ae5b50ec
     name: ai-pack
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-07-07T02:22:40.00453928Z"
+    created: "2025-07-07T07:55:21.917896528Z"
     description: A Helm chart for Kubernetes
     digest: e827ca6192e1cda7acf510bcea1a398006738baf4a180c33f05e1c3e72826aef
     name: ai-pack
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ai-pack-0.1.0.tgz
     version: 0.1.0
   ald-common-resource:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-07-07T02:22:40.010766558Z"
+    created: "2025-07-07T07:55:21.919638565Z"
     description: A Helm chart for Kubernetes
     digest: fa875d4e692f99087a2d3f0741f94e9f88c60669b521955aba505e4b4fcb6f02
     name: ald-common-resource
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ald-common-resource-0.1.0.tgz
     version: 0.1.0
   ald-server:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-07-07T02:22:40.012500906Z"
+    created: "2025-07-07T07:55:21.920481714Z"
     description: A Helm chart for Kubernetes
     digest: 581e632de386e6e801d54df664c053f27d1d195b85b277785c73c8eb0330b7cb
     name: ald-server
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-07-07T02:22:40.011512462Z"
+    created: "2025-07-07T07:55:21.919949459Z"
     description: A Helm chart for Kubernetes
     digest: a438214a0939d14ca3ab98a70ea6a2d905da6868ab3939aa4f7129f61cc40696
     name: ald-server
     type: application
     urls:
-    - https:mellerikat.github.io/AI-Logic-Deployer
+    - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-07T02:22:40.003945857Z"
+generated: "2025-07-07T07:55:21.917321171Z"
