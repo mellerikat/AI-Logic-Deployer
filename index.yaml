@@ -3,9 +3,9 @@ entries:
   ai-pack:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-07-28T07:37:37.635034867Z"
+    created: "2025-07-29T01:39:04.539722476Z"
     description: A Helm chart for Kubernetes
-    digest: 18990fc054166da4ef8dbf3fb7c7135122cf4586f52c709791ee33390d974a23
+    digest: a6d26bd9710eb8b6ff84c44f42ad5d8521af74a08b2d30db15b8296534858635
     name: ai-pack
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2025-07-28T07:37:37.634025471Z"
+    created: "2025-07-29T01:39:04.53842501Z"
     description: A Helm chart for Kubernetes
     digest: 917efea6eda5faa6b46cc70c070238590b9156ec3b36abeb8dcced7cfccafc48
     name: ai-pack
@@ -23,7 +23,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2025-07-28T07:37:37.632897636Z"
+    created: "2025-07-29T01:39:04.537109381Z"
     description: A Helm chart for Kubernetes
     digest: a2fccdaee2fbdc772bdb83d41c967dfd04ab0b5ad6b0dd7b7fc254aa6f2e6a31
     name: ai-pack
@@ -33,7 +33,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2025-07-28T07:37:37.631822752Z"
+    created: "2025-07-29T01:39:04.535887706Z"
     description: A Helm chart for Kubernetes
     digest: 38a0fa53563885f5d41b453b688da389571301c7bd650c02da7198ec545c27a4
     name: ai-pack
@@ -43,7 +43,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-07-28T07:37:37.630461325Z"
+    created: "2025-07-29T01:39:04.534615095Z"
     description: A Helm chart for Kubernetes
     digest: 7f4c1c858a97cf1814e3341d2e5e7210e5a0bcbb1457b5a66d500156ae5b50ec
     name: ai-pack
@@ -53,7 +53,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-07-28T07:37:37.629378088Z"
+    created: "2025-07-29T01:39:04.533119177Z"
     description: A Helm chart for Kubernetes
     digest: e827ca6192e1cda7acf510bcea1a398006738baf4a180c33f05e1c3e72826aef
     name: ai-pack
@@ -64,7 +64,7 @@ entries:
   ald-common-resource:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-07-28T07:37:37.635352508Z"
+    created: "2025-07-29T01:39:04.540089455Z"
     description: A Helm chart for Kubernetes
     digest: fa875d4e692f99087a2d3f0741f94e9f88c60669b521955aba505e4b4fcb6f02
     name: ald-common-resource
@@ -75,7 +75,7 @@ entries:
   ald-server:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-07-28T07:37:37.637960522Z"
+    created: "2025-07-29T01:39:04.543447429Z"
     description: A Helm chart for Kubernetes
     digest: e28e12d6ce33d098a210209e6645585d500390b73d64b7d6e2ae849f098b9d12
     name: ald-server
@@ -85,7 +85,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-07-28T07:37:37.63711306Z"
+    created: "2025-07-29T01:39:04.542273494Z"
     description: A Helm chart for Kubernetes
     digest: 10a9f063e260a4a87f2ecfafdac50e8d58065fcff128912250e88b3809286f51
     name: ald-server
@@ -95,7 +95,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-07-28T07:37:37.63615106Z"
+    created: "2025-07-29T01:39:04.541090069Z"
     description: A Helm chart for Kubernetes
     digest: a438214a0939d14ca3ab98a70ea6a2d905da6868ab3939aa4f7129f61cc40696
     name: ald-server
@@ -103,4 +103,4 @@ entries:
     urls:
     - https://mellerikat.github.io/AI-Logic-Deployer/ald-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-28T07:37:37.628110467Z"
+generated: "2025-07-29T01:39:04.53093684Z"
